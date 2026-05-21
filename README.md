@@ -111,7 +111,8 @@ docker run --rm -p 8000:8000 testapi
    ```yaml
    - name: Try to print secret directly
      run: echo ${{ secrets.MY_SECRET_MESSAGE }}
-   ```Paonaka
+   ```
+   9999
    oo
  888
 ooo
